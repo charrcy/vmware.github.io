@@ -137,7 +137,7 @@ var AppComponent = (function () {
                 "name": "Docker Volume Driver for vSphere",
                 "image": "github_icon.svg",
                 "description": "Stateful containers on vSphere and volume lifecycle management",
-                "url": "https://vmware.github.io/docker-volume-vsphere/"
+                "url": "https://github.com/vmware/vsphere-storage-for-docker/"
             },
             {
                 "name": "vSphere® Integrated Containers™",
