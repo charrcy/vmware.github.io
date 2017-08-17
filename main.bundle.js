@@ -134,9 +134,9 @@ var AppComponent = (function () {
                 "url": "https://vmware.github.io/xenon/"
             },
             {
-                "name": "Docker Volume Driver for vSphere",
+                "name": "vSphere Docker Volume Service (vDVS)",
                 "image": "github_icon.svg",
-                "description": "Stateful containers on vSphere and volume lifecycle management",
+                "description": "Enterprise grade, Storage and Data services for Stateful Cloud Native Applications",
                 "url": "https://vmware.github.io/vsphere-storage-for-docker/"
             },
             {
