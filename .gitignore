@@ -1,2 +1,8 @@
-.idea
+.idea/
 .DS_Store
+coverage/
+html-report/
+node_modules/
+typings/
+**/*npm-debug.log.*
+**/*yarn-error.log.*
