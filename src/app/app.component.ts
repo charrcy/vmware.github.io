@@ -97,7 +97,7 @@ export class AppComponent {
       "name": "vSphere Docker Volume Service (vDVS)",
       "image": "github_icon.svg",
       "description": "Enterprise grade, Storage and Data services for Stateful Cloud Native Applications",
-      "url": "https://vmware.github.io/vsphere-storage-for-docker/"
+      "url": "https://vmware.github.io/docker-volume-vsphere/"
     },
     {
       "name" : "tdnf",
