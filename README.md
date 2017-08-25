@@ -1,7 +1,7 @@
 # Summary
 This is a source code for the https://vmware.github.io website.
 It is created using Angular, which means it needs to be compiled into a HTML file structure ready to be served as a website. 
-We work on the source code on the gh-page-source branch, then compile and finally deploy to the master branch where it is auto-served from by GitHub at https://vmware.github.io
+We work on the source code on the gh-pages-source branch, then compile and finally deploy to the master branch where it is auto-served from by GitHub at https://vmware.github.io
 The [Steps](#steps) section below describes the above workflow in more detail.
 
 
