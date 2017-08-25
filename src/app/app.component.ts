@@ -94,12 +94,6 @@ export class AppComponent {
       "url" : "https://vmware.github.io/xenon/"
     },
     {
-      "name": "vSphere Docker Volume Service (vDVS)",
-      "image": "github_icon.svg",
-      "description": "Enterprise grade, Storage and Data services for Stateful Cloud Native Applications",
-      "url": "https://vmware.github.io/docker-volume-vsphere/"
-    },
-    {
       "name" : "tdnf",
       "image" : "github_icon.svg",
       "description" : "Tiny Dandified Yum",
