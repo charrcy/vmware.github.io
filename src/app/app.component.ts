@@ -16,24 +16,6 @@ export class AppComponent {
 
     projects = [
     {
-      "name" : "Clarity",
-      "image" : "clarity.svg",
-      "description" : "UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences",
-      "url" : "https://vmware.github.io/clarity"
-    },
-    {
-      "name" : "Weathervane",
-      "description" : "Virtual-Infrastructure and Cloud Performance Benchmark",
-      "image" : "weathervane.png",
-      "url" : "https://github.com/vmware/weathervane"
-    },
-    {
-      "name" : "Chap",
-      "description" : "Analyzes un-instrumented core files for leaks, memory growth, and corruption",
-      "image" : "chap.png",
-      "url" : "https://github.com/vmware/chap"
-    },
-    {
       "name" : "Harbor",
       "image" : "harbor.png",
       "description" : "An Enterprise-class Container Registry Server based on Docker Distribution",
@@ -46,10 +28,34 @@ export class AppComponent {
       "url" : "https://vmware.github.io/admiral/"
     },
     {
+      "name": "Hatchway",
+      "image": "github_icon.svg",
+      "description": "Persistent Storage for Cloud Native Applications. Enterprise grade, Storage and Data services for Docker & Kubernetes",
+      "url": "https://vmware.github.io/hatchway/documentation/"
+    },
+    {
+      "name" : "Clarity",
+      "image" : "clarity.svg",
+      "description" : "UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences",
+      "url" : "https://vmware.github.io/clarity"
+    },
+    {
       "name" : "vSphere Automation SDKs",
       "image" : "vsphere-automation-sdks.png",
       "description" : "Software Development Kits for accessing vSphere’s Automation endpoint APIs",
       "url" : "https://vmware.github.io/vsphere-automation-sdk"
+    },
+    {
+      "name" : "Weathervane",
+      "description" : "Virtual-Infrastructure and Cloud Performance Benchmark",
+      "image" : "weathervane.png",
+      "url" : "https://github.com/vmware/weathervane"
+    },
+    {
+      "name" : "Chap",
+      "description" : "Analyzes un-instrumented core files for leaks, memory growth, and corruption",
+      "image" : "chap.png",
+      "url" : "https://github.com/vmware/chap"
     },
     {
       "name" : "vSphere Integrated Containers Engine",
@@ -92,12 +98,6 @@ export class AppComponent {
       "image": "github_icon.svg",
       "description": "Enterprise grade, Storage and Data services for Stateful Cloud Native Applications",
       "url": "https://vmware.github.io/vsphere-storage-for-docker/"
-    },
-    {
-      "name" : "vSphere® Integrated Containers™",
-      "image" : "github_icon.svg",
-      "description" : "Run containers alongside existing workloads in vSphere",
-      "url" : "https://vmware.github.io/vic-product/"
     },
     {
       "name" : "tdnf",
