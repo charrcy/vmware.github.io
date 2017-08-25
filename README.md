@@ -16,4 +16,7 @@ Install with `npm install angular-cli-ghpages` (if you're curious, find out more
 2. Compile the source code into a set of files ready to be served as a website: `ng build --prod --base-href "https://vmware.github.io"`
 3. Deploy the built code to the master branch, so that it will be automatically served by GitHub at: https://vmware.github.io
 `angular-cli-ghpages --branch master`
+
+# By the way
+Using Angular 4 for a site as simple as this one is an overkill, so we are considering converting it to using a static site generator framework (most likely Jekyll, which is the default choice for GitHub pages anyway).
     
