@@ -82,12 +82,6 @@ export class AppComponent {
       "url" : "https://vmware.github.io/photon/"
     },
     {
-      "name" : "Photon Controller™",
-      "image" : "photon.png",
-      "description" : "Distributed, multi-tenant host controller and scheduler",
-      "url" : "https://vmware.github.io/photon-controller/"
-    },
-    {
       "name" : "Xenon™",
       "image" : "xenon.png",
       "description" : "Decentralized Control Plane Framework",
@@ -108,6 +102,6 @@ export class AppComponent {
     ];
 
     trackByFn(index, item) {
-    	return item.id;
+       return item.id;
     }
 }
